@@ -13,9 +13,7 @@ st.set_page_config(
 )
 
 st.sidebar.title('WhatsApp Chat Analyzer')
-st.write('\n')
-st.write('\n')
-st.sidebar.header('Developed by Farneet Singh')
+st.sidebar.text('Developed by Farneet Singh')
         
 
 
