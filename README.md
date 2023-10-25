@@ -24,8 +24,5 @@ This repository contains the source code for a reusable contact form component d
 - [Whatsapp Chat Analyzer](https://farneet24-chatanalyzer-app-pi7gil.streamlit.app/)
 - [SMS Chat Analyzer](https://farneet24-sms-spam-app-r53bi4.streamlit.app/)
 
-## Usage
-
-To use this contact form in your own project, follow these steps:
-
-1. Clone this repository:
+## Collaboration
+- Individuals interested in collaborating for a project can connect with me through [LinkedIn](https://www.linkedin.com/in/farneet-singh-6b155b208/). Thank you :)
