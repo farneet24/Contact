@@ -22,7 +22,7 @@ st.sidebar.text('\n')
 with st.sidebar:
 
     html = """
-        <img src="https://www.transparentpng.com/thumb/instagram-logo-icon/16WUcW-instagram-logo-icon-png.png" alt="Instagram Icon" height = "30px" style="margin-right: 10px;">    <a href="https://www.instagram.com/farneet.singh/" style="color: grey;  text-decoration: none;">Farneet Singh</a>
+        <img src="https://www.transparentpng.com/thumb/instagram-logo-icon/16WUcW-instagram-logo-icon-png.png" alt="Instagram Icon" height = "30px" style="margin-right: 10px;">    <a href="https://www.instagram.com/farneetsingh7/" style="color: grey;  text-decoration: none;">Farneet Singh</a>
         <br>
         <br>
         <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" alt="LinkedIn Icon" height = "30px" style="margin-right: 10px;">    <a style="color: grey;  text-decoration: none;" href="https://www.linkedin.com/in/farneet-singh-6b155b208/">Farneet Singh</a>
