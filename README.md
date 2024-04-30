@@ -26,3 +26,8 @@ This repository contains the source code for a reusable contact form component d
 
 ## Collaboration
 - Individuals interested in collaborating for a project can connect with me through [LinkedIn](https://www.linkedin.com/in/farneet-singh-6b155b208/). Thank you :)
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+The project is licensed under the MIT License.
